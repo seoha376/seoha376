@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm [Song Seoha]!
+# 👋 Hi, I'm Song Seoha!
 
 🎓 ITM Student at SeoulTech | 🌱 Learning Full-Stack Development | 🚀 Open Source Enthusiast  
 
