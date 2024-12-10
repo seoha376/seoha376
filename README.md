@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript  <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor
-출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats [로띠 로그:티스토리]
+- 💻 **Languages**:  <img src="https://img.shields.io/badge/-Java-344CB7?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+
 - 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
-- 🛢️ **Databases**: MySQL, PostgreSQL  
-- ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
+- 🛢️ **Databases**:  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+
+- ⚙️ **Tools & Platforms**:  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+
 
 ---
 
