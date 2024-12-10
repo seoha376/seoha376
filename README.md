@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JavaScript  
+- 💻 **Languages**: Java, Python, JavaScript  <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor
+출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats [로띠 로그:티스토리]
 - 🌐 **Frameworks & Libraries**: Spring Boot, Django, React  
 - 🛢️ **Databases**: MySQL, PostgreSQL  
 - ⚙️ **Tools & Platforms**: Git, GitHub, Docker  
