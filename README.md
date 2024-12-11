@@ -45,16 +45,17 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seoha376&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seoha376&layout=compact&theme=radical)  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=transparent)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=seoha376&show_icons=true&theme=transparent)
 
 ---
 
-## 📞 Contact Me
+## 📞 Contact
 
-- 📧 **Email**: yourname@example.com  
+- 📧 **Personal Email**: seoha376@gmail.com
+- 📧 **School Email**: minute376@seoultech.ac.kr
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)  
 - 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
 
