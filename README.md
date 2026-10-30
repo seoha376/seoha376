@@ -27,12 +27,6 @@
 
 ---
 
-### GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seoha376&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seoha376@gmail.com)
